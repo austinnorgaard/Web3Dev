@@ -1,4 +1,4 @@
-from brownie import network, accounts, config, EnsembleBallot
+from brownie import networks, accounts, config
 from scripts.helpful_scripts import get_account
 
 def deploy_ensemble_ballot():
@@ -8,3 +8,4 @@ def deploy_ensemble_ballot():
 
 def main():
     deploy_ensemble_ballot()
+
