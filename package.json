@@ -1,0 +1,13 @@
+{
+  "name": "Tesla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@usedapp/core": "^0.7.3",
+    "store": "^2.0.12"
+  }
+}
